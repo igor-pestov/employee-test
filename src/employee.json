@@ -1,0 +1,816 @@
+[
+  {
+    "_id": "611b8f306ab9b5047acd10c4",
+    "index": 0,
+    "active": false,
+    "name": "Stacey Forbes",
+    "times": {
+      "clockedIn": "Thu Jul 15 2021 11:46:24 GMT+0300 (MSK)",
+      "clockedOut": "Thu Jul 15 2021 18:46:24 GMT+0300 (MSK)",
+      "unproductiveTime": 21
+    }
+  },
+  {
+    "_id": "611b8f30833a5f03013fd3e8",
+    "index": 1,
+    "active": false,
+    "name": "Knight Church",
+    "times": {
+      "clockedIn": "Thu Jul 22 2021 14:30:12 GMT+0300 (MSK)",
+      "clockedOut": "Thu Jul 22 2021 17:38:15 GMT+0300 (MSK)",
+      "unproductiveTime": 10
+    }
+  },
+  {
+    "_id": "611b8f300cac145f15f00f04",
+    "index": 2,
+    "active": true,
+    "name": "Mercado Myers",
+    "times": {
+      "clockedIn": "Fri Jun 11 2021 04:20:04 GMT+0300 (MSK)",
+      "clockedOut": "Fri Jun 11 2021 12:22:00 GMT+0300 (MSK)",
+      "unproductiveTime": 0
+    }
+  },
+  {
+    "_id": "611b8f30452d4d25d4d09326",
+    "index": 3,
+    "active": true,
+    "name": "Mccarthy Key",
+    "times": {
+      "clockedIn": "Thu Jun 03 2021 13:10:00 GMT+0300 (MSK)",
+      "clockedOut": "Thu Jun 03 2021 19:42:07 GMT+0300 (MSK)",
+      "unproductiveTime": 8
+    }
+  },
+  {
+    "_id": "611b8f3031e5476ff9c3ad9f",
+    "index": 4,
+    "active": true,
+    "name": "Meredith Hansen",
+    "times": {
+      "clockedIn": "Tue Jun 29 2021 09:58:19 GMT+0300 (MSK)",
+      "clockedOut": "Tue Jun 29 2021 19:33:10 GMT+0300 (MSK)",
+      "unproductiveTime": 4
+    }
+  },
+  {
+    "_id": "611b8f30c105f575fccbba88",
+    "index": 5,
+    "active": false,
+    "name": "Tamera Weaver",
+    "times": {
+      "clockedIn": "Tue Apr 13 2021 02:19:18 GMT+0300 (MSK)",
+      "clockedOut": "Tue Apr 13 2021 08:11:18 GMT+0300 (MSK)",
+      "unproductiveTime": 9
+    }
+  },
+  {
+    "_id": "611b8f3070178aad82501e5e",
+    "index": 6,
+    "active": true,
+    "name": "Calhoun Bauer",
+    "times": {
+      "clockedIn": "Wed Apr 14 2021 00:09:08 GMT+0300 (MSK)",
+      "clockedOut": "Wed Apr 14 2021 09:52:01 GMT+0300 (MSK)",
+      "unproductiveTime": 8
+    }
+  },
+  {
+    "_id": "611b8f3004b8f10934b49f0d",
+    "index": 7,
+    "active": false,
+    "name": "Sophia Thomas",
+    "times": {
+      "clockedIn": "Tue Jun 08 2021 02:02:54 GMT+0300 (MSK)",
+      "clockedOut": "Tue Jun 08 2021 09:33:22 GMT+0300 (MSK)",
+      "unproductiveTime": 10
+    }
+  },
+  {
+    "_id": "611b8f30aaa17ef82b0ab651",
+    "index": 8,
+    "active": true,
+    "name": "Olga Odonnell",
+    "times": {
+      "clockedIn": "Sat May 08 2021 16:41:53 GMT+0300 (MSK)",
+      "clockedOut": "Sat May 08 2021 21:32:50 GMT+0300 (MSK)",
+      "unproductiveTime": 23
+    }
+  },
+  {
+    "_id": "611b8f30ba677b550228a0d3",
+    "index": 9,
+    "active": true,
+    "name": "Roy Donovan",
+    "times": {
+      "clockedIn": "Fri Feb 19 2021 06:54:28 GMT+0300 (MSK)",
+      "clockedOut": "Fri Feb 19 2021 07:52:21 GMT+0300 (MSK)",
+      "unproductiveTime": 1
+    }
+  },
+  {
+    "_id": "611b8f303d24b81601398f7d",
+    "index": 10,
+    "active": true,
+    "name": "Patel Gould",
+    "times": {
+      "clockedIn": "Wed Jan 27 2021 00:35:58 GMT+0300 (MSK)",
+      "clockedOut": "Wed Jan 27 2021 09:12:47 GMT+0300 (MSK)",
+      "unproductiveTime": 17
+    }
+  },
+  {
+    "_id": "611b8f30ca18db05d0434a8a",
+    "index": 11,
+    "active": true,
+    "name": "Dianna Lambert",
+    "times": {
+      "clockedIn": "Sat Apr 24 2021 22:02:54 GMT+0300 (MSK)",
+      "clockedOut": "Sat Apr 24 2021 23:46:00 GMT+0300 (MSK)",
+      "unproductiveTime": 23
+    }
+  },
+  {
+    "_id": "611b8f30472cf99033c68909",
+    "index": 12,
+    "active": false,
+    "name": "Bonnie Walsh",
+    "times": {
+      "clockedIn": "Thu Aug 12 2021 04:34:43 GMT+0300 (MSK)",
+      "clockedOut": "Thu Aug 12 2021 12:08:00 GMT+0300 (MSK)",
+      "unproductiveTime": 19
+    }
+  },
+  {
+    "_id": "611b8f30057a69aa001672f1",
+    "index": 13,
+    "active": false,
+    "name": "Graves Osborne",
+    "times": {
+      "clockedIn": "Fri Mar 12 2021 08:45:22 GMT+0300 (MSK)",
+      "clockedOut": "Fri Mar 12 2021 18:12:44 GMT+0300 (MSK)",
+      "unproductiveTime": 0
+    }
+  },
+  {
+    "_id": "611b8f30873263bfbae0b795",
+    "index": 14,
+    "active": true,
+    "name": "Estelle Patton",
+    "times": {
+      "clockedIn": "Sat Jul 17 2021 08:48:42 GMT+0300 (MSK)",
+      "clockedOut": "Sat Jul 17 2021 15:15:40 GMT+0300 (MSK)",
+      "unproductiveTime": 0
+    }
+  },
+  {
+    "_id": "611b8f302e028e27717e51c5",
+    "index": 15,
+    "active": true,
+    "name": "Maricela Pitts",
+    "times": {
+      "clockedIn": "Thu Mar 04 2021 15:44:55 GMT+0300 (MSK)",
+      "clockedOut": "Thu Mar 04 2021 20:08:25 GMT+0300 (MSK)",
+      "unproductiveTime": 6
+    }
+  },
+  {
+    "_id": "611b8f30452d4d25d4d09326",
+    "index": 3,
+    "active": true,
+    "name": "Mccarthy Key",
+    "times": {
+      "clockedIn": "Thu Jun 03 2021 13:10:00 GMT+0300 (MSK)",
+      "clockedOut": "Thu Jun 03 2021 19:42:07 GMT+0300 (MSK)",
+      "unproductiveTime": 8
+    }
+  }, 
+  {
+    "_id": "611b8f301e6fbbba8f62933d",
+    "index": 16,
+    "active": true,
+    "name": "Lorna Potts",
+    "times": {
+      "clockedIn": "Thu Jan 28 2021 03:14:31 GMT+0300 (MSK)",
+      "clockedOut": "Thu Jan 28 2021 07:55:23 GMT+0300 (MSK)",
+      "unproductiveTime": 12
+    }
+  },
+  {
+    "_id": "611b8f30ac59052d6db7fbd1",
+    "index": 17,
+    "active": false,
+    "name": "Head Joyce",
+    "times": {
+      "clockedIn": "Tue Apr 06 2021 21:08:28 GMT+0300 (MSK)",
+      "clockedOut": "Tue Apr 06 2021 23:54:12 GMT+0300 (MSK)",
+      "unproductiveTime": 11
+    }
+  },
+  {
+    "_id": "611b8f30ddd7786c23c6b0e9",
+    "index": 18,
+    "active": false,
+    "name": "Regina Delacruz",
+    "times": {
+      "clockedIn": "Mon Jan 04 2021 12:56:07 GMT+0300 (MSK)",
+      "clockedOut": "Mon Jan 04 2021 14:08:07 GMT+0300 (MSK)",
+      "unproductiveTime": 23
+    }
+  },
+  {
+    "_id": "611b8f30043fb89d159395e8",
+    "index": 19,
+    "active": false,
+    "name": "Malone Franks",
+    "times": {
+      "clockedIn": "Thu Mar 11 2021 16:11:43 GMT+0300 (MSK)",
+      "clockedOut": "Thu Mar 11 2021 19:55:40 GMT+0300 (MSK)",
+      "unproductiveTime": 13
+    }
+  },
+  {
+    "_id": "611b8f30b8fa1fee6d455118",
+    "index": 20,
+    "active": false,
+    "name": "Huffman Kelley",
+    "times": {
+      "clockedIn": "Mon Mar 01 2021 22:33:55 GMT+0300 (MSK)",
+      "clockedOut": "Mon Mar 01 2021 23:52:50 GMT+0300 (MSK)",
+      "unproductiveTime": 8
+    }
+  },
+  {
+    "_id": "611b8f30f61adedd57ef76e3",
+    "index": 21,
+    "active": true,
+    "name": "Cindy House",
+    "times": {
+      "clockedIn": "Tue Aug 10 2021 15:54:46 GMT+0300 (MSK)",
+      "clockedOut": "Tue Aug 10 2021 19:51:46 GMT+0300 (MSK)",
+      "unproductiveTime": 13
+    }
+  },
+  {
+    "_id": "611b8f3014a188d5cb096a52",
+    "index": 22,
+    "active": true,
+    "name": "Mavis Santiago",
+    "times": {
+      "clockedIn": "Sun Apr 11 2021 14:37:57 GMT+0300 (MSK)",
+      "clockedOut": "Sun Apr 11 2021 20:30:12 GMT+0300 (MSK)",
+      "unproductiveTime": 18
+    }
+  },
+  {
+    "_id": "611b8f30135a791f342da119",
+    "index": 23,
+    "active": false,
+    "name": "Horton Langley",
+    "times": {
+      "clockedIn": "Thu Feb 11 2021 14:25:16 GMT+0300 (MSK)",
+      "clockedOut": "Thu Feb 11 2021 21:00:16 GMT+0300 (MSK)",
+      "unproductiveTime": 10
+    }
+  },
+  {
+    "_id": "611b8f30272c556641e3c341",
+    "index": 24,
+    "active": true,
+    "name": "Stevenson Madden",
+    "times": {
+      "clockedIn": "Sat Aug 07 2021 13:48:53 GMT+0300 (MSK)",
+      "clockedOut": "Sat Aug 07 2021 15:33:43 GMT+0300 (MSK)",
+      "unproductiveTime": 12
+    }
+  },
+  {
+    "_id": "611b8f30ddd7786c23c6b0e9",
+    "index": 18,
+    "active": false,
+    "name": "Regina Delacruz",
+    "times": {
+      "clockedIn": "Mon Jan 04 2021 12:56:07 GMT+0300 (MSK)",
+      "clockedOut": "Mon Jan 04 2021 14:08:07 GMT+0300 (MSK)",
+      "unproductiveTime": 23
+    }
+  },  
+  {
+    "_id": "611b8f304121d127a7231a1d",
+    "index": 25,
+    "active": false,
+    "name": "Rodgers Mcclure",
+    "times": {
+      "clockedIn": "Thu Apr 15 2021 10:50:35 GMT+0300 (MSK)",
+      "clockedOut": "Thu Apr 15 2021 16:12:31 GMT+0300 (MSK)",
+      "unproductiveTime": 20
+    }
+  },
+  {
+    "_id": "611b8f304db6b72a8198a14d",
+    "index": 26,
+    "active": false,
+    "name": "Tillman Mejia",
+    "times": {
+      "clockedIn": "Sun May 23 2021 13:07:20 GMT+0300 (MSK)",
+      "clockedOut": "Sun May 23 2021 16:20:29 GMT+0300 (MSK)",
+      "unproductiveTime": 19
+    }
+  },
+  {
+    "_id": "611b8f30c7a56e7a20d85546",
+    "index": 27,
+    "active": true,
+    "name": "Peterson Brock",
+    "times": {
+      "clockedIn": "Sun Jan 10 2021 06:21:26 GMT+0300 (MSK)",
+      "clockedOut": "Sun Jan 10 2021 19:22:14 GMT+0300 (MSK)",
+      "unproductiveTime": 6
+    }
+  },
+  {
+    "_id": "611b8f30b07653e7fec57e3e",
+    "index": 28,
+    "active": false,
+    "name": "Liza Crosby",
+    "times": {
+      "clockedIn": "Tue Jun 29 2021 06:33:12 GMT+0300 (MSK)",
+      "clockedOut": "Tue Jun 29 2021 07:25:33 GMT+0300 (MSK)",
+      "unproductiveTime": 8
+    }
+  },
+  {
+    "_id": "611b8f30bf23921cc3eee080",
+    "index": 29,
+    "active": true,
+    "name": "Barry Sellers",
+    "times": {
+      "clockedIn": "Sat Jun 05 2021 09:49:52 GMT+0300 (MSK)",
+      "clockedOut": "Sat Jun 05 2021 15:44:12 GMT+0300 (MSK)",
+      "unproductiveTime": 11
+    }
+  },
+  {
+    "_id": "611b8f306a3aba776de6a933",
+    "index": 30,
+    "active": false,
+    "name": "Salazar Fletcher",
+    "times": {
+      "clockedIn": "Mon Aug 02 2021 05:05:13 GMT+0300 (MSK)",
+      "clockedOut": "Mon Aug 02 2021 12:22:19 GMT+0300 (MSK)",
+      "unproductiveTime": 15
+    }
+  },
+  {
+    "_id": "611b8f30ddd7786c23c6b0e9",
+    "index": 18,
+    "active": false,
+    "name": "Regina Delacruz",
+    "times": {
+      "clockedIn": "Mon Jan 04 2021 12:56:07 GMT+0300 (MSK)",
+      "clockedOut": "Mon Jan 04 2021 14:08:07 GMT+0300 (MSK)",
+      "unproductiveTime": 23
+    }
+  },
+  {
+    "_id": "611b8f30a4bed35398e0cb50",
+    "index": 31,
+    "active": true,
+    "name": "Lina Coffey",
+    "times": {
+      "clockedIn": "Sun Jun 13 2021 18:32:39 GMT+0300 (MSK)",
+      "clockedOut": "Sun Jun 13 2021 23:38:44 GMT+0300 (MSK)",
+      "unproductiveTime": 1
+    }
+  },
+  {
+    "_id": "611b8f302c379f9ce8cbbf92",
+    "index": 32,
+    "active": true,
+    "name": "Olson Mckee",
+    "times": {
+      "clockedIn": "Sun May 30 2021 13:44:12 GMT+0300 (MSK)",
+      "clockedOut": "Sun May 30 2021 19:08:12 GMT+0300 (MSK)",
+      "unproductiveTime": 10
+    }
+  },
+  {
+    "_id": "611b8f3085948594501c45e6",
+    "index": 33,
+    "active": false,
+    "name": "Norma Pickett",
+    "times": {
+      "clockedIn": "Tue Aug 03 2021 02:24:02 GMT+0300 (MSK)",
+      "clockedOut": "Tue Aug 03 2021 10:08:55 GMT+0300 (MSK)",
+      "unproductiveTime": 23
+    }
+  },
+  {
+    "_id": "611b8f301aba0cf760376720",
+    "index": 34,
+    "active": false,
+    "name": "Mathews Alford",
+    "times": {
+      "clockedIn": "Wed Jun 23 2021 05:34:52 GMT+0300 (MSK)",
+      "clockedOut": "Wed Jun 23 2021 08:52:18 GMT+0300 (MSK)",
+      "unproductiveTime": 11
+    }
+  },
+  {
+    "_id": "611b8f306d1ea4405abc82f9",
+    "index": 35,
+    "active": false,
+    "name": "Santiago Simmons",
+    "times": {
+      "clockedIn": "Sun Jan 24 2021 21:28:54 GMT+0300 (MSK)",
+      "clockedOut": "Sun Jan 24 2021 23:24:51 GMT+0300 (MSK)",
+      "unproductiveTime": 8
+    }
+  },
+  {
+    "_id": "611b8f3077e155d2df349969",
+    "index": 36,
+    "active": true,
+    "name": "Danielle Greene",
+    "times": {
+      "clockedIn": "Tue Jun 15 2021 18:17:24 GMT+0300 (MSK)",
+      "clockedOut": "Tue Jun 15 2021 21:17:25 GMT+0300 (MSK)",
+      "unproductiveTime": 14
+    }
+  },
+  {
+    "_id": "611b8f306d879e79f0c22018",
+    "index": 37,
+    "active": false,
+    "name": "Carlson Hebert",
+    "times": {
+      "clockedIn": "Fri Jan 01 2021 02:20:09 GMT+0300 (MSK)",
+      "clockedOut": "Fri Jan 01 2021 06:27:31 GMT+0300 (MSK)",
+      "unproductiveTime": 19
+    }
+  },
+  {
+    "_id": "611b8f308c44725e243e1f4f",
+    "index": 38,
+    "active": true,
+    "name": "Harris Cross",
+    "times": {
+      "clockedIn": "Wed Jul 21 2021 09:51:15 GMT+0300 (MSK)",
+      "clockedOut": "Wed Jul 21 2021 17:35:28 GMT+0300 (MSK)",
+      "unproductiveTime": 12
+    }
+  },
+  {
+    "_id": "611b8f30d5d90590a3e92dfb",
+    "index": 39,
+    "active": false,
+    "name": "Bette Schmidt",
+    "times": {
+      "clockedIn": "Sat Aug 07 2021 10:08:16 GMT+0300 (MSK)",
+      "clockedOut": "Sat Aug 07 2021 13:51:19 GMT+0300 (MSK)",
+      "unproductiveTime": 14
+    }
+  },
+  {
+    "_id": "611b8f30e88f3496a809820a",
+    "index": 40,
+    "active": true,
+    "name": "Conway Travis",
+    "times": {
+      "clockedIn": "Thu Jun 17 2021 16:45:28 GMT+0300 (MSK)",
+      "clockedOut": "Thu Jun 17 2021 21:43:28 GMT+0300 (MSK)",
+      "unproductiveTime": 22
+    }
+  },
+  {
+    "_id": "611b8f30ddd7786c23c6b0e9",
+    "index": 18,
+    "active": false,
+    "name": "Regina Delacruz",
+    "times": {
+      "clockedIn": "Mon Jan 04 2021 12:56:07 GMT+0300 (MSK)",
+      "clockedOut": "Mon Jan 04 2021 14:08:07 GMT+0300 (MSK)",
+      "unproductiveTime": 23
+    }
+  },
+  {
+    "_id": "611b8f30b53700764f6a1090",
+    "index": 41,
+    "active": false,
+    "name": "Hanson Craft",
+    "times": {
+      "clockedIn": "Fri Jul 23 2021 01:28:34 GMT+0300 (MSK)",
+      "clockedOut": "Fri Jul 23 2021 09:31:34 GMT+0300 (MSK)",
+      "unproductiveTime": 17
+    }
+  },
+  {
+    "_id": "611b8f3017351179d968ab57",
+    "index": 42,
+    "active": false,
+    "name": "Mcdowell Norton",
+    "times": {
+      "clockedIn": "Tue Aug 17 2021 10:26:50 GMT+0300 (MSK)",
+      "clockedOut": "Tue Aug 17 2021 12:12:50 GMT+0300 (MSK)",
+      "unproductiveTime": 23
+    }
+  },
+  {
+    "_id": "611b8f304cacd2a794a461a6",
+    "index": 43,
+    "active": true,
+    "name": "Powers Noel",
+    "times": {
+      "clockedIn": "Tue Apr 20 2021 06:04:31 GMT+0300 (MSK)",
+      "clockedOut": "Tue Apr 20 2021 09:24:31 GMT+0300 (MSK)",
+      "unproductiveTime": 13
+    }
+  },
+  {
+    "_id": "611b8f30a4f2cf4ea9cde0fa",
+    "index": 44,
+    "active": true,
+    "name": "Margery Lawson",
+    "times": {
+      "clockedIn": "Fri Aug 13 2021 05:39:06 GMT+0300 (MSK)",
+      "clockedOut": "Fri Aug 13 2021 09:42:06 GMT+0300 (MSK)",
+      "unproductiveTime": 2
+    }
+  },
+  {
+    "_id": "611b8f300530e4798b69a9b8",
+    "index": 45,
+    "active": false,
+    "name": "Justine Ortega",
+    "times": {
+      "clockedIn": "Mon Feb 15 2021 05:19:41 GMT+0300 (MSK)",
+      "clockedOut": "Mon Feb 15 2021 09:22:41 GMT+0300 (MSK)",
+      "unproductiveTime": 5
+    }
+  },
+  {
+    "_id": "611b8f3008c022af608b7d33",
+    "index": 46,
+    "active": true,
+    "name": "Holt Frye",
+    "times": {
+      "clockedIn": "Wed Jul 07 2021 15:17:41 GMT+0300 (MSK)",
+      "clockedOut": "Wed Jul 07 2021 22:29:11 GMT+0300 (MSK)",
+      "unproductiveTime": 7
+    }
+  },
+  {
+    "_id": "611b8f308b627d5a90b7a178",
+    "index": 47,
+    "active": true,
+    "name": "Durham Lawrence",
+    "times": {
+      "clockedIn": "Thu Apr 01 2021 19:14:56 GMT+0300 (MSK)",
+      "clockedOut": "Thu Apr 01 2021 23:12:56 GMT+0300 (MSK)",
+      "unproductiveTime": 6
+    }
+  },
+  {
+    "_id": "611b8f301c1feae46ecd7e42",
+    "index": 48,
+    "active": true,
+    "name": "Lidia Martin",
+    "times": {
+      "clockedIn": "Thu May 13 2021 02:29:54 GMT+0300 (MSK)",
+      "clockedOut": "Thu May 13 2021 15:12:54 GMT+0300 (MSK)",
+      "unproductiveTime": 6
+    }
+  },
+  {
+    "_id": "611b8f3064d53efff0e6ecc0",
+    "index": 49,
+    "active": true,
+    "name": "Lloyd Fulton",
+    "times": {
+      "clockedIn": "Wed Feb 03 2021 13:57:42 GMT+0300 (MSK)",
+      "clockedOut": "Wed Feb 03 2021 16:55:42 GMT+0300 (MSK)",
+      "unproductiveTime": 23
+    }
+  },
+  {
+    "_id": "611b8f3071a7b6fb67a7053d",
+    "index": 50,
+    "active": true,
+    "name": "Jane Zamora",
+    "times": {
+      "clockedIn": "Thu Aug 05 2021 09:22:48 GMT+0300 (MSK)",
+      "clockedOut": "Thu Aug 05 2021 13:13:48 GMT+0300 (MSK)",
+      "unproductiveTime": 14
+    }
+  },
+  {
+    "_id": "611b8f302588bd51b372dc2a",
+    "index": 51,
+    "active": true,
+    "name": "Gibbs Riddle",
+    "times": {
+      "clockedIn": "Tue Jul 06 2021 15:11:53 GMT+0300 (MSK)",
+      "clockedOut": "Tue Jul 06 2021 19:24:53 GMT+0300 (MSK)",
+      "unproductiveTime": 2
+    }
+  },
+  {
+    "_id": "611b8f3070c2211264c39cd4",
+    "index": 52,
+    "active": true,
+    "name": "Lelia Vasquez",
+    "times": {
+      "clockedIn": "Mon Jul 12 2021 12:29:22 GMT+0300 (MSK)",
+      "clockedOut": "Mon Jul 12 2021 15:33:22 GMT+0300 (MSK)",
+      "unproductiveTime": 5
+    }
+  },
+  {
+    "_id": "611b8f305c0a7a87f8051626",
+    "index": 53,
+    "active": true,
+    "name": "Mcconnell Mclaughlin",
+    "times": {
+      "clockedIn": "Mon Apr 05 2021 02:41:37 GMT+0300 (MSK)",
+      "clockedOut": "Mon Apr 05 2021 08:41:37 GMT+0300 (MSK)",
+      "unproductiveTime": 4
+    }
+  },
+  {
+    "_id": "611b8f303b5ecc1ea5c0cf65",
+    "index": 54,
+    "active": false,
+    "name": "Schwartz Small",
+    "times": {
+      "clockedIn": "Wed Jul 28 2021 04:24:40 GMT+0300 (MSK)",
+      "clockedOut": "Wed Jul 28 2021 11:18:40 GMT+0300 (MSK)",
+      "unproductiveTime": 1
+    }
+  },
+  {
+    "_id": "611b8f30c1a8c034a09732bd",
+    "index": 55,
+    "active": true,
+    "name": "Wynn Ferguson",
+    "times": {
+      "clockedIn": "Fri Jun 25 2021 23:21:35 GMT+0300 (MSK)",
+      "clockedOut": "Fri Jun 25 2021 23:54:35 GMT+0300 (MSK)",
+      "unproductiveTime": 19
+    }
+  },
+  {
+    "_id": "611b8f30ddd7786c23c6b0e9",
+    "index": 18,
+    "active": false,
+    "name": "Regina Delacruz",
+    "times": {
+      "clockedIn": "Mon Jan 04 2021 12:56:07 GMT+0300 (MSK)",
+      "clockedOut": "Mon Jan 04 2021 14:08:07 GMT+0300 (MSK)",
+      "unproductiveTime": 23
+    }
+  },
+  {
+    "_id": "611b8f309429102eed09822a",
+    "index": 56,
+    "active": false,
+    "name": "Faye Johnston",
+    "times": {
+      "clockedIn": "Mon Apr 19 2021 19:07:11 GMT+0300 (MSK)",
+      "clockedOut": "Mon Apr 19 2021 22:08:11 GMT+0300 (MSK)",
+      "unproductiveTime": 22
+    }
+  },
+  {
+    "_id": "611b8f30a624bcc1e79afca3",
+    "index": 57,
+    "active": true,
+    "name": "Teri Little",
+    "times": {
+      "clockedIn": "Tue Jun 29 2021 03:48:18 GMT+0300 (MSK)",
+      "clockedOut": "Tue Jun 29 2021 08:15:18 GMT+0300 (MSK)",
+      "unproductiveTime": 18
+    }
+  },
+  {
+    "_id": "611b8f309de758ef41d64541",
+    "index": 58,
+    "active": false,
+    "name": "Kathie Hinton",
+    "times": {
+      "clockedIn": "Mon Jul 12 2021 16:18:14 GMT+0300 (MSK)",
+      "clockedOut": "Mon Jul 12 2021 18:28:14 GMT+0300 (MSK)",
+      "unproductiveTime": 20
+    }
+  },
+  {
+    "_id": "611b8f30cbb2d171745660d5",
+    "index": 59,
+    "active": false,
+    "name": "Joan Barron",
+    "times": {
+      "clockedIn": "Mon May 03 2021 03:25:14 GMT+0300 (MSK)",
+      "clockedOut": "Mon May 03 2021 09:15:14 GMT+0300 (MSK)",
+      "unproductiveTime": 15
+    }
+  },
+  {
+    "_id": "611b8f30f41f1b33a90363fe",
+    "index": 60,
+    "active": false,
+    "name": "Powell Mercado",
+    "times": {
+      "clockedIn": "Wed Jan 13 2021 20:37:53 GMT+0300 (MSK)",
+      "clockedOut": "Wed Jan 13 2021 23:42:53 GMT+0300 (MSK)",
+      "unproductiveTime": 3
+    }
+  },
+  {
+    "_id": "611b8f3060b0ba30133887eb",
+    "index": 61,
+    "active": true,
+    "name": "Amie Curtis",
+    "times": {
+      "clockedIn": "Wed Aug 04 2021 10:49:29 GMT+0300 (MSK)",
+      "clockedOut": "Wed Aug 04 2021 18:33:29 GMT+0300 (MSK)",
+      "unproductiveTime": 9
+    }
+  },
+  {
+    "_id": "611b8f303bfb5883efa802c6",
+    "index": 62,
+    "active": false,
+    "name": "Hughes Bray",
+    "times": {
+      "clockedIn": "Sat Feb 20 2021 12:11:23 GMT+0300 (MSK)",
+      "clockedOut": "Sat Feb 20 2021 18:19:23 GMT+0300 (MSK)",
+      "unproductiveTime": 4
+    }
+  },
+  {
+    "_id": "611b8f3065a27e6d9a123c8a",
+    "index": 63,
+    "active": false,
+    "name": "Edna Wiley",
+    "times": {
+      "clockedIn": "Wed Apr 07 2021 12:15:42 GMT+0300 (MSK)",
+      "clockedOut": "Wed Apr 07 2021 16:33:42 GMT+0300 (MSK)",
+      "unproductiveTime": 11
+    }
+  },
+  {
+    "_id": "611b8f30820fa1cec1d667c9",
+    "index": 64,
+    "active": true,
+    "name": "Ellis Villarreal",
+    "times": {
+      "clockedIn": "Tue May 04 2021 13:40:55 GMT+0300 (MSK)",
+      "clockedOut": "Tue May 04 2021 18:45:55 GMT+0300 (MSK)",
+      "unproductiveTime": 8
+    }
+  },
+  {
+    "_id": "611b8f30ddd7786c23c6b0e9",
+    "index": 18,
+    "active": false,
+    "name": "Regina Delacruz",
+    "times": {
+      "clockedIn": "Mon Jan 04 2021 12:56:07 GMT+0300 (MSK)",
+      "clockedOut": "Mon Jan 04 2021 14:08:07 GMT+0300 (MSK)",
+      "unproductiveTime": 23
+    }
+  },
+  {
+    "_id": "611b8f3066412b67d8f23c0c",
+    "index": 65,
+    "active": true,
+    "name": "Marks Gillespie",
+    "times": {
+      "clockedIn": "Sun Mar 21 2021 09:50:50 GMT+0300 (MSK)",
+      "clockedOut": "Sun Mar 21 2021 12:22:50 GMT+0300 (MSK)",
+      "unproductiveTime": 15
+    }
+  },
+  {
+    "_id": "611b8f30006a59419da75374",
+    "index": 66,
+    "active": false,
+    "name": "Evangeline Clayton",
+    "times": {
+      "clockedIn": "Tue Jul 13 2021 00:28:55 GMT+0300 (MSK)",
+      "clockedOut": "Tue Jul 13 2021 12:12:55 GMT+0300 (MSK)",
+      "unproductiveTime": 20
+    }
+  },
+  {
+    "_id": "611b8f30ddd7786c23c6b0e9",
+    "index": 18,
+    "active": false,
+    "name": "Regina Delacruz",
+    "times": {
+      "clockedIn": "Mon Jan 04 2021 12:56:07 GMT+0300 (MSK)",
+      "clockedOut": "Mon Jan 04 2021 14:08:07 GMT+0300 (MSK)",
+      "unproductiveTime": 23
+    }
+  }
+]
